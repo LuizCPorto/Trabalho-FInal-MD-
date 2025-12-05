@@ -1,0 +1,16 @@
+[project]
+name = "agentes"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "agno>=2.1.7",
+    "google-genai>=1.50.1",
+    "mcp>=1.21.1",
+    "ollama>=0.6.0",
+    "openai>=2.4.0",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.1.1",
+    "yfinance>=0.2.66",
+]
